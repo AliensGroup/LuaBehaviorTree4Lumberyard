@@ -1,0 +1,11 @@
+{
+  "GemFormatVersion": 3,
+  "Uuid": "b3c3ae5a00f14d19ae9d13e1369b9784",
+  "Name": "LuaBehaviorTree4Lumberyard",
+  "DisplayName": "LuaBehaviorTree For Lumberyard",
+  "Version": "0.1.0",
+  "LinkType": "NoCode",
+  "Summary": "A collection of BehaviorTree nodes for Lumberyard, implemented using LuaBehaviorTree.",
+  "Tags": ["Asset", "AI", "BehaviorTree", "Lua", "Scripting"],
+  "IconPath": "preview.png"
+}
